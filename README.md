@@ -1,6 +1,7 @@
 # java-system-properties
 A more object-oriented way to get the system properties in a Java program.
-Sample usage:
+Just create a SystemProperties object in your program and use it to retrieve 
+individual system properties or all properties in a Map collection.
 
 
     SystemProperties systemProperties = new SystemProperties();
