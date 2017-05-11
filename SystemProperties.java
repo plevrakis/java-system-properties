@@ -51,7 +51,6 @@ public class SystemProperties {
 	private String userHome = null;
 	private String userName = null;
 	private Toolkit toolKit = null;
-	private Runtime runTime = null;
 	private Dimension screenSize = null;
 	private Map<String, String> properties = null;
 
