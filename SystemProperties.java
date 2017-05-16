@@ -357,13 +357,6 @@ public class SystemProperties {
 	}
 
 	/**
-	 * @return the runTime
-	 */
-	public Runtime getRunTime() {
-		return runTime;
-	}
-
-	/**
 	 * @return the screenSize
 	 */
 	public String getScreenSize() {
