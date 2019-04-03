@@ -350,7 +350,7 @@ public class SystemProperties {
 	}
 
 	/**
-	 * @return the toolKit
+	 * @return the toolKit69
 	 */
 	public Toolkit getToolKit() {
 		return toolKit;
